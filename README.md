@@ -1,7 +1,7 @@
 # geoquiz
 
 
- ##How to set up and run
+ ## How to set up and run
  
 * download files to a local folder
 * navigate geoquiz folder
