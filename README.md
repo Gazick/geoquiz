@@ -1,4 +1,4 @@
-# geoquiz
+# geoquiz game
 
 
  ## How to set up and run
